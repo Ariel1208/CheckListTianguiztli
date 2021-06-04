@@ -1,0 +1,30 @@
+[26-Oct-2020 17:52:16 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[27-Oct-2020 09:39:53 America/Mexico_City] PHP Warning:  rmdir(../../imagenesPlatillos/29): Directory not empty in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 209
+[27-Oct-2020 12:09:28 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[27-Oct-2020 12:10:27 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[27-Oct-2020 12:10:46 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[27-Oct-2020 12:11:11 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[27-Oct-2020 14:52:12 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'Could not move file' in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tianguiz/CheckList.tianguiztli.com/controladores/ControlPlatillos.php on line 151
+[18-Nov-2020 16:38:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3600' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/tianguiz/CheckList.tianguiztli.com/controladores/control.php on line 33
+[18-Nov-2020 16:38:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3600' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/tianguiz/CheckList.tianguiztli.com/controladores/control.php on line 33
+[18-Nov-2020 16:38:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3600' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/tianguiz/CheckList.tianguiztli.com/controladores/control.php on line 33
+[18-Nov-2020 16:38:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3600' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/tianguiz/CheckList.tianguiztli.com/controladores/control.php on line 33
+[18-Nov-2020 16:38:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3600' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/tianguiz/CheckList.tianguiztli.com/controladores/control.php on line 33
